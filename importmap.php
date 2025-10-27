@@ -25,4 +25,25 @@ return [
     '@hotwired/turbo' => [
         'version' => '7.3.0',
     ],
+    'react' => [
+        'version' => '19.2.0',
+    ],
+    'react-dom' => [
+        'version' => '19.2.0',
+    ],
+    'axios' => [
+        'version' => '1.12.2',
+    ],
+    '@stripe/react-stripe-js' => [
+        'version' => '5.2.0',
+    ],
+    '@stripe/stripe-js' => [
+        'version' => '8.1.0',
+    ],
+    '@symfony/ux-react' => [
+        'version' => '2.30.0',
+    ],
+    'prop-types' => [
+        'version' => '15.8.1',
+    ],
 ];
