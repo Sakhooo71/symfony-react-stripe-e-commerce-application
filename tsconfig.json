@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "ESNext",
+        "jsx": "react-jsx",
+        "strict": true,
+        "esModuleInterop": true,
+        "moduleResolution": "bundler",
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "outDir": "./dist",
+        "typeRoots": ["./node_modules/@types"],
+        "types": ["react", "react-dom"]
+    },
+    "exclude": [
+        "node_modules",
+        "vendor"
+    ]
+}
